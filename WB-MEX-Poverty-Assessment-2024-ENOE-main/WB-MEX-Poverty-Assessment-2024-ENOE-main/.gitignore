@@ -1,0 +1,18 @@
+*.dta
+*.pdf
+*.xlsx
+*.r
+*.zip
+*.log
+*.txt
+*_fake.do
+*_old.do
+*.sh
+*.Rhistory
+*.dbf
+*V03_A_GLD_ALL.do
+*V07_A_GLD_ALL.do
+01_Append_ENOE_quarterly_data.do
+!paneles para estudio movilidad de ingresos.xlsx
+Work/
+Doc/
